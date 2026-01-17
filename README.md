@@ -9,12 +9,12 @@ This project analyzes a real sales dataset and presents insights through a clear
 
 ### Tools Used
 - Google Looker Studio
-- Excel / CSV
+- Google Sheets (data source)
 
-### Key Focus
-- KPI-driven metrics
-- Clarity over complexity
-- Business-oriented insights
+### Key Insights
+- Monthly sales trend and growth pattern
+- Top-performing products and categories
+- Regional contribution to total sales
 
 ### Preview
 ![Sales Dashboard](dashboard.png)
