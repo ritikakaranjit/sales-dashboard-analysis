@@ -8,7 +8,7 @@ This project analyzes a real sales dataset and presents insights through a clear
 - Present insights in a simple, actionable way
 
 ### Tools Used
-- Google Looker Studo
+- Google Looker Studio
 - Excel / CSV
 
 ### Key Focus
